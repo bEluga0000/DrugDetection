@@ -1,12 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Drug Detection System Using Optical Character Recognition</title>
-</head>
 <body>
-    <h1 align="center">Drug Detector</h1>
+    <h1 align="center">Drug Detection System Using Optical Character Recognitionr</h1>
     <p align="center">
         A web application that identifies text from uploaded images of medicines, provides detailed information about the medicine, translates the extracted text into different languages, and offers a text-to-speech feature.
     </p>
