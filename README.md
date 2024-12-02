@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <body>
-    <h1 align="center">Drug Detection System Using Optical Character Recognition</h1>
+    <h1 align="center">Drug Detection System Using OCR</h1>
     <p align="center">
         A web application that identifies text from uploaded images of medicines, provides detailed information about the medicine, translates the extracted text into different languages, and offers a text-to-speech feature.
     </p>
